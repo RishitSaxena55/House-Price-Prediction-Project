@@ -1,9 +1,9 @@
-#Linear Regression Model for House Price Prediction
+# Linear Regression Model for House Price Prediction
 
-#Problem Statement:
+# Problem Statement:
 A real estate agent wants help predicting house prices. You are provided with a dataset and decide to use a Linear Regression Model to estimate the price at which a house would sell based on the given features
 
-#Dataset Details:
+# Dataset Details:
 File Format: CSV
 
 Size: 545 rows × 13 columns
